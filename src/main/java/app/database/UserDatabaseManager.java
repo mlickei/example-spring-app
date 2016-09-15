@@ -22,9 +22,9 @@ public class UserDatabaseManager {
      */
     public UserDatabaseManager()
     {
-        url = "jdbc:mysql://localhost:3306/spendingapp";
+        url = "jdbc:mysql://localhost:3306/example-spring-app";
         db_user = "admin";
-        db_password = "af9fsxFO";
+        db_password = "password";
     }
 
     /**
